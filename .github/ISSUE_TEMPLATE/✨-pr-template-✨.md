@@ -1,7 +1,7 @@
 ---
 name: "✨ PR Template ✨"
 about: "ECOCO PR 템플릿입니다 \U0001F970"
-title: "[PREFIX] PR 내용"
+title: "[PREFIX] PR 내용 (#Related Issue)"
 labels: ''
 assignees: ''
 
